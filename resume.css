@@ -45,7 +45,7 @@ p {
 
 hr {
     border: none;
-    background-color: lightgray;
+    background-color: #a5f8f1;
     height: 1px;
 }
 
@@ -54,7 +54,7 @@ h1, h2, h3 {
     margin-bottom: 0;
 }
 #mainLeft {
-    border-right: 1px solid lightgray;
+    border-right: 1px solid #a5f8f1;
 }
 
 
@@ -89,7 +89,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: white;
+  background-color: #a5f8f1;
 }
 
 ul li {
@@ -106,5 +106,5 @@ ul li a {
 }
 
 ul li a:hover {
-  background-color: pink;
+  background-color: #8bf9e7;
 }
